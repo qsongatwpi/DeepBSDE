@@ -10,6 +10,8 @@ conda env create -f environment.yml
 
 ## Training
 
+[test1.ipynb](./test/test1.ipynb)
+
 ```
 python main.py --config_path=configs/hjb_lq_d100.json
 ```
